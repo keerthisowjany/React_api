@@ -1,0 +1,18 @@
+.ll{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image:url("https://th.bing.com/th/id/OIP.3kINenxdfeKWP99VQLXFDQHaE8?pid=ImgDet&rs=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: cover;
+    
+}
+.a {
+    border: 2px;
+    border-radius: 10px;
+    width: 350px;
+    padding: 30px;
+    background-color: rgba(238, 227, 227, 0.789);
+}

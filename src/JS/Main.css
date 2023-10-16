@@ -1,0 +1,33 @@
+/* animeTrendingPage.css */
+.anime-trending-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .anime-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .anime-card{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 15px;
+    width: 300px;
+  }
+  
+  .anime-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .anime-card h2 {
+    margin: 10px 0;
+    font-size: 1.5rem;
+  }
+  
+  .anime-card p {
+    font-size: 1rem;
+  }
